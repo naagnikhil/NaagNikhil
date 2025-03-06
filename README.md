@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @naagnikhil
-- 👀 I'm pursuing BBA Finance 
-- 🌱 I’m currently learning Data science 
-- 📫 You can reach me through my Instagram @naag_nikhil
+
   
 
 
